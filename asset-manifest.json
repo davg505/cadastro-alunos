@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cadastro-alunos/static/css/main.a302e6b7.css",
+    "main.js": "/cadastro-alunos/static/js/main.b97cb22f.js",
+    "static/js/453.223eff78.chunk.js": "/cadastro-alunos/static/js/453.223eff78.chunk.js",
+    "index.html": "/cadastro-alunos/index.html",
+    "main.a302e6b7.css.map": "/cadastro-alunos/static/css/main.a302e6b7.css.map",
+    "main.b97cb22f.js.map": "/cadastro-alunos/static/js/main.b97cb22f.js.map",
+    "453.223eff78.chunk.js.map": "/cadastro-alunos/static/js/453.223eff78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a302e6b7.css",
+    "static/js/main.b97cb22f.js"
+  ]
+}
